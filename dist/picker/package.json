@@ -1,0 +1,36 @@
+{
+  "name": "ng-pick-datetime",
+  "version": "8.0.0",
+  "description": "Angular Date Time Picker",
+  "keywords": [
+    "Angular",
+    "datepicker",
+    "date picker",
+    "timepicker",
+    "time picker"
+  ],
+  "author": "daniel pan <myron.yk.pan@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanielYKPan/date-time-picker.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0",
+    "@angular/cdk": "^7.0.0"
+  },
+  "main": "bundles/ng-pick-datetime.umd.js",
+  "module": "fesm5/ng-pick-datetime.js",
+  "es2015": "fesm2015/ng-pick-datetime.js",
+  "esm5": "esm5/ng-pick-datetime.js",
+  "esm2015": "esm2015/ng-pick-datetime.js",
+  "fesm5": "fesm5/ng-pick-datetime.js",
+  "fesm2015": "fesm2015/ng-pick-datetime.js",
+  "typings": "ng-pick-datetime.d.ts",
+  "metadata": "ng-pick-datetime.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
